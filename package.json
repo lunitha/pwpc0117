@@ -1,0 +1,25 @@
+{
+  "name": "simple-static-server",
+  "version": "1.0.0",
+  "description": "servidor statico simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "author": "jessy",
+  "license": "ISC",
+  "dependencies": {
+    "mine": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

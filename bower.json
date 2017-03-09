@@ -1,0 +1,21 @@
+{
+  "name": "simple-static-server",
+  "description": "servidor statico simple",
+  "main": "server.js",
+  "authors": [
+    "jessy"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
